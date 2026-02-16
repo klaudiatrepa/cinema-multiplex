@@ -16,3 +16,6 @@ local.properties
 .classpath
 .project
 .vscode/
+*.json
+.prettierc
+node_modules/
